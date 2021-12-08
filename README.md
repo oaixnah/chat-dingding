@@ -84,5 +84,5 @@ $ bash control tail
 
 ## Contributing
 
-README.md 文件编写参考: [open-falcon/dashboard](https://github.com/open-falcon/dashboard)
+README.md&control 文件编写参考: [open-falcon/dashboard](https://github.com/open-falcon/dashboard)
 
