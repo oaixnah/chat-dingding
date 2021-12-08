@@ -59,7 +59,7 @@ $ ./venv/bin/pip install -r requirements.txt
 ### Debug
 
 ```shell
-$ ./venv/bin/uvicorn main:app --reload --host 0.0.0.0:8082
+$ ./venv/bin/uvicorn main:app --reload --host 0.0.0.0 --port 8082
 ```
 
 ### Run with gunicorn
