@@ -2,7 +2,7 @@
 
 ![python3](https://img.shields.io/badge/Python->=3.6-blue)
 
-Open-Falcon Alarm api im to dingding
+发送 falcon报警信息 到 钉钉「支持：工作通知、聊天群、群机器人」
 
 ## 介绍
 
