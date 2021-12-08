@@ -25,7 +25,7 @@ Open-Falcon Alarm api im to dingding
 > 用在 模版配置 内的 callback地址（只支持http get方式回调）
 
 + `chat_id` & `robot_token` 同上
-+ `tos` 钉钉用户ID
++ `tos` 钉钉用户ID，多用户`,`分割
 
 #### falcon端设置
 
