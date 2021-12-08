@@ -10,7 +10,7 @@ Open-Falcon Alarm api im to dingding
 
 #### 接口参数
 
-##### 1. "http://0.0.0.0:8082/im?corp=true&chat_id=<chatid1|chatid2>&robot_token=<robot_access_token>"
+##### 1. `http://0.0.0.0:8082/im?corp=true&chat_id=<chatid1|chatid2>&robot_token=<robot_access_token>`
 
 > 用在 alarm/config/cfg.json > "api" > "im" 配置地址
 
@@ -20,7 +20,7 @@ Open-Falcon Alarm api im to dingding
 
 ⚠️ 注意：在采用 群聊或群机器人 发送时，告警模版中报警接收组的用户留一个用户即可，要不然可能会出现多次发送的情况
 
-##### 2. "http://0.0.0.0:8082/callback?corp=true&tos=<user1|user2>&chat_id=<chatid1|chatid2>&robot_token=<robot_access_token>"
+##### 2. `http://0.0.0.0:8082/callback?corp=true&tos=<user1|user2>&chat_id=<chatid1|chatid2>&robot_token=<robot_access_token>`
 
 > 用在 模版配置 内的 callback地址（只支持http get方式回调）
 
