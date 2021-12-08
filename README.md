@@ -1,5 +1,7 @@
 # chat-dingding
 
+![python3](https://img.shields.io/badge/Python->=3.6-blue)
+
 Open-Falcon Alarm api im to dingding
 
 ## 介绍
